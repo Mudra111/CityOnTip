@@ -1,0 +1,37 @@
+body {
+	background: url(./images/bg1-image.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	width: 100%;
+	height: auto;
+}
+.d1 {
+	height: 30rem;
+}
+.d2 {
+	background-color: rgba(0, 0, 0, 0.6);
+	padding: 70px;
+	position: relative;
+	top: 70px;
+	border-radius: 10px;
+	color: white;
+}
+.d4 {
+	position: relative;
+	top: 130px;
+}
+.d3 {
+	width: 20rem;
+}
+.fc {
+	background-color: rgba(255, 255, 255, 0.7);
+	border: none;
+}
+.btn1 {
+	background-color: #c08d2f;
+	font-weight: 600;
+	/* width: 120px; */
+	position: relative;
+	left: 4rem;
+}
